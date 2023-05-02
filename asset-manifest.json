@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Hotel-Rent/static/css/main.da1d03f3.css",
+    "main.js": "/Hotel-Rent/static/js/main.1c1b404e.js",
+    "static/js/787.dc4793e2.chunk.js": "/Hotel-Rent/static/js/787.dc4793e2.chunk.js",
+    "static/media/img2.jpg": "/Hotel-Rent/static/media/img2.054f4410fc1e313b5103.jpg",
+    "static/media/img6.jpg": "/Hotel-Rent/static/media/img6.206366ca4026a0b5befb.jpg",
+    "static/media/img4.jpg": "/Hotel-Rent/static/media/img4.dea1985bb7f73b8cac4d.jpg",
+    "static/media/img1.jpg": "/Hotel-Rent/static/media/img1.8704f6236a506ab932cf.jpg",
+    "static/media/img3.jpg": "/Hotel-Rent/static/media/img3.46c6ea9c4eb00221c6e2.jpg",
+    "static/media/aboutImg.jpg": "/Hotel-Rent/static/media/aboutImg.c7058c91373b11612842.jpg",
+    "static/media/img5.jpg": "/Hotel-Rent/static/media/img5.af373c3af677f118a998.jpg",
+    "static/media/person2.jpg": "/Hotel-Rent/static/media/person2.64ac78a691669f6f9f56.jpg",
+    "static/media/person1.jpg": "/Hotel-Rent/static/media/person1.5e7232eca43c26259aba.jpg",
+    "index.html": "/Hotel-Rent/index.html",
+    "main.da1d03f3.css.map": "/Hotel-Rent/static/css/main.da1d03f3.css.map",
+    "main.1c1b404e.js.map": "/Hotel-Rent/static/js/main.1c1b404e.js.map",
+    "787.dc4793e2.chunk.js.map": "/Hotel-Rent/static/js/787.dc4793e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da1d03f3.css",
+    "static/js/main.1c1b404e.js"
+  ]
+}
