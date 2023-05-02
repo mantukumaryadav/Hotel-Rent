@@ -1,0 +1,34 @@
+.navbar-container{
+    width: 70%;
+    margin: 0 auto;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #a7a7a7;
+}
+.logo h1{
+    color: #2B3A55;
+    font-size: 2rem;
+}
+.logo h1 span{
+    color: #CE7777;
+}
+.navbar-info{
+    display: flex;
+    align-items: center;
+}
+.navbar-info-icon{
+    font-size: 3rem;
+    padding: 0 20px;
+    color: #CE7777;
+}
+.navbar-info-details p{
+    color: #838383;
+    margin-bottom: 5px;
+}
+@media screen and (max-width:850px) {
+    .navbar-container{
+        width: 85%;
+    }
+}
